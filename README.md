@@ -3,6 +3,9 @@
 <h3 align="center">“I never dreamed about success. I worked for it.”</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=pkishorp alt=Pooja-Pawar/> </p>
+<p align="left">                           
+  <a href="https://github.com/pkishorp"><img src="https://hits.sh/github.com/pkishorp.svg?label=Visitors&extraCount=50&color=526afd&labelColor=0b861a" alt="Visitors"></a>   
+</p>
 
 
 - 💬 Ask me about **python, mysql, HTML, CSS, Salesforce.

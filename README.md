@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pooja Pawar</h1>
 
 <h3 align="center">“I never dreamed about success. I worked for it.”</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=pkishorp alt= Pooja-Pawar/> </p>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=pkishorp alt=Pooja-Pawar/> </p>
 
 
 - 💬 Ask me about **python, mysql, HTML, CSS, Salesforce.
